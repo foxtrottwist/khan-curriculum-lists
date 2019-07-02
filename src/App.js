@@ -51,7 +51,7 @@ const ModalBox = styled.div`
 `
 
 export default function App() {
-  const [curriculumList, setCurriculumList] = useState(loadState())
+  const [curriculumList, setCurriculumList] = useState(() => loadState())
   const [topics, setTopics] = useState(null)
   const [courses, setCourses] = useState(null)
   const [selectedCourse, setSelectCourse] = useState(null)
