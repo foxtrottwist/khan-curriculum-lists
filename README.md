@@ -8,10 +8,6 @@ My first React project, built out of necessity while homeschooling my son. I nee
 
 ## Tech Stack
 
-<img src="https://raw.githubusercontent.com/foxtrottwist/foxtrottwist/main/assets/brider-codes.png" alt="Bridge Builder Fox mascot coding" width="600" height="400" align="right">
-
-*Bridger is here to help make educational content discovery more accessible for homeschooling families.*
-
 **Framework & Core:**
 - React 16.8.6 - Originally built with class components, refactored to Hooks
 - Styled Components 4.3.2 - Component-scoped styling with CSS-in-JS
